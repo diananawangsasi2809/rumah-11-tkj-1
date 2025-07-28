@@ -1,0 +1,6 @@
+Makanan :
+boba 
+susu
+es teh
+jus buah
+air putih
